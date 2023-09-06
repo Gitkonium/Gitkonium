@@ -1,16 +1,22 @@
-### Hi there 👋
+<h1 align="center"> LEE JIHOON </h1>
 
-<!--
-**Gitkonium/Gitkonium** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 목표 
 
-Here are some ideas to get you started:
+## 현재 스택 
+<h3> FRAMEWORK </h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=.NET&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
+
+<h3> LANGUAGE </h3>
+
+<img src="https://img.shields.io/badge/C%23-452170?style=flat-square&logo=C%23&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
+<img src="https://img.shields.io/badge/vb.net-A9225C?style=flat-square&logo=vb.net&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
+
+<h3> DB </h3>
+
+<img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
+
+<h3> OS </h3>
+
+<img src="https://img.shields.io/badge/centos-262577?style=flat-square&logo=centos&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
+
