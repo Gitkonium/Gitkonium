@@ -1,9 +1,5 @@
 <h1 align="center"> LEE JIHOON </h1>
 
-## 목표 
-
-ASP.NET을 이용한 사이트 제작
-
 ## 현재 스택 
 <h3> FRAMEWORK </h3>
 
