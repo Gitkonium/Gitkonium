@@ -20,6 +20,4 @@ jobs:
           git config user.name Gitkonium
           git config user.email koniair0204@gmail.com
           git add -A .
-          git commit -m "generated"
-          git push origin +master
-          git fetch origin master
+          git push
