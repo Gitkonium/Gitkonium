@@ -21,4 +21,4 @@ jobs:
           git config user.email koniair0204@gmail.com
           git add -A .
           git commit -m "generated"
-          git push -f origin master
+          git push
