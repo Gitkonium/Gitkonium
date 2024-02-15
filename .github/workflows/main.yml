@@ -20,4 +20,4 @@ jobs:
           git config user.name Gitkonium
           git config user.email koniair0204@gmail.com
           git add -A .
-          git push origin
+          git push
